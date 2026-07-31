@@ -15,3 +15,7 @@ print(first_name, age)
 #we can check type of vaRiable
 print(type(age))
 
+#to take input from the user
+name= input("Enter your name: ")
+
+print("hello", name)
