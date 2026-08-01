@@ -19,3 +19,7 @@ print(type(age))
 name= input("Enter your name: ")
 
 print("hello", name)
+
+#we can combine two strigs and make one by using '+' in between 
+print("Using + :")
+print("Hello" + " "+ name)
