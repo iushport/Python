@@ -3,6 +3,7 @@ Name= input("Enter the Superhero Name:")
 print(Name +" is a Superhero")
 Age = input ("Enter Age :")
 print(Age)
-
+Height = input ("Enter his Height :")
+print(Height)
 
              
